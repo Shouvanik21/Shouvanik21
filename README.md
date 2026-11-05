@@ -1,18 +1,17 @@
 <div align="center"><img src="assets/spiderverse-header.gif" width="85%" alt="Spider-Verse inspired neon Brooklyn swinging hero banner"/>
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=22&duration=2500&pause=900&color=FF3131&center=true&vCenter=true&width=800&lines=EARTH-1610+%2F%2F+DEVELOPER+IDENTIFIED;HELLO+MULTIVERSE!+I'M+SHOUVANIK+SANTRA;AI+%26+ML+%7C+GENERATIVE+AI+%7C+SOFTWARE+DEVELOPMENT;ONE+REPOSITORY+AT+A+TIME..." alt="Animated introduction"/><h1>  🕷️ HEY EVERYONE. I'M SHOUVANIK SANTRA.
-</h1><h3>
-  <code>@Shouvanik21</code>
-</h3><h4>
-  BROOKLYN'S ONE AND ONLY OPEN-SOURCE SPIDER-MAN  <sub>ECE STUDENT • ASPIRING AI/ML ENGINEER • FULL-STACK DEVELOPER</sub>
+</h1><h4>
+  BROOKLYN'S ONE AND ONLY OPEN-SOURCE SPIDER-MAN  ||  ECE STUDENT • ASPIRING AI/ML ENGINEER • FULL-STACK DEVELOPER
 </h4><p><br>
   <strong>BUILDING INTELLIGENT SYSTEMS. CONNECTING DIGITAL WORLDS. BREAKING LIMITS.</strong><br><br>
-</p><img src="https://img.shields.io/badge/EARTH-1610-FF3131?style=for-the-badge&logo=spider&logoColor=white"/><img src="https://img.shields.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge"/><img src="https://img.shields.io/badge/IDENTITY-OPEN_SOURCE-8A2BE2?style=for-the-badge"/><img src="https://komarev.com/ghpvc/?username=Shouvanik21&label=MULTIVERSE+VISITORS&color=FF3131&style=for-the-badge"/>
-<a href="https://github.com/Shouvanik21">  <img src="https://img.shields.io/badge/ENTER_MY_MULTIVERSE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://github.com/Shouvanik21?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-FF3131?style=for-the-badge&logo=github&logoColor=white"/>
+</p><img src="https://img.shields.io/badge/EARTH-1610-FF3131?style=for-the-badge&logo=spider&logoColor=white"/> <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/IDENTITY-OPEN_SOURCE-8A2BE2?style=for-the-badge"/> <br> <img src="https://komarev.com/ghpvc/?username=Shouvanik21&label=MULTIVERSE+VISITORS&color=FF3131&style=for-the-badge"/>
+<a href="https://github.com/Shouvanik21"> <img src="https://img.shields.io/badge/ENTER_MY_MULTIVERSE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://github.com/Shouvanik21?tab=repositories">  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-FF3131?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div><!-- ═══════════════════════════════════════════════════════════════ --><!-- SECTION 02 // THE SPIDER-SENSE ORIGIN STORY                     --><!-- ═══════════════════════════════════════════════════════════════ --><div align="center"><h2>🕸️ THE SPIDER-SENSE ORIGIN STORY</h2><h4>EVERY HERO HAS AN ORIGIN. EVERY DEVELOPER HAS A FIRST COMMIT.</h4></div><table width="100%"><tr><td width="35%" align="center" valign="middle"><img src="assets/miles-mask.jpg" width="80%" alt="Hand-drawn Spider-Verse inspired mask with animated spider-sense effects"/>
+</div><!-- ═══════════════════════════════════════════════════════════════ --><!-- SECTION 02 // THE SPIDER-SENSE ORIGIN STORY                     --><!-- ═══════════════════════════════════════════════════════════════ -->
+<br>
+<div align="center"><h2>🕸️ THE SPIDER-SENSE ORIGIN STORY</h2><h4>EVERY HERO HAS AN ORIGIN. EVERY DEVELOPER HAS A FIRST COMMIT.</h4></div><table width="100%"><tr><td width="35%" align="center" valign="middle"><img src="assets/miles-mask.jpg" width="80%" alt="Hand-drawn Spider-Verse inspired mask with animated spider-sense effects"/>
 <sub><b>EARTH-1610 || CHARACTER PROFILE</b></sub>
 
 <br>
