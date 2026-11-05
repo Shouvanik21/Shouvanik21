@@ -1,0 +1,39 @@
+name: Update 3D Contribution Heatmap
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-3d-contributions.yml"
+      - "scripts/generate_3d_contributions.py"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate 3D contribution SVG
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
+        run: python scripts/generate_3d_contributions.py
+
+      - name: Commit updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update red 3D contribution heatmap"
+          file_pattern: "profile-3d-contrib/profile-customize.svg"

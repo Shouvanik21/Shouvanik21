@@ -283,7 +283,7 @@ My development journey revolves around three major dimensions:
 
 ### 🩸 THE CRIMSON CONTRIBUTION DIMENSION
 
-<img src="./profile-3d-contrib/profile-customize.svg" width="100%">
+<img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="Red 3D Contribution Heatmap">
 
 <br/>
 
