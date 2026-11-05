@@ -1,2 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24"><defs><pattern id="h" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="3" fill="#ff1e38"/></pattern></defs>
-<rect y="8" width="1000" height="8" fill="url(#h)"/><rect y="10" width="1000" height="2" fill="#00d4ff" opacity=".9"><animate attributeName="x" calcMode="discrete" dur="1s" repeatCount="indefinite" values="0;3;-2;1"/></rect></svg>
