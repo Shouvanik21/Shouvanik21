@@ -283,21 +283,19 @@ My development journey revolves around three major dimensions:
 
 ### 🩸 THE CRIMSON CONTRIBUTION DIMENSION
 
-<img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="Red 3D Contribution Heatmap">
+<img src="https://ghchart.rshah.org/FF3131/Shouvanik21" alt="Shouvanik's GitHub contribution heatmap" width="100%"/>
 
 <br/>
 
 <sub>BLACK → DEEP CRIMSON → NEON RED // ACTIVITY INTENSITY</sub>
 
-<br/><br/>
-
-### 📡 MULTIVERSE STATISTICS
+<!-- ### 📡 MULTIVERSE STATISTICS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shouvanik21&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF&icon_color=00FFFF&ring_color=FF3131"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvanik21&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF"/>
 
-<br/><br/>
+<br/><br/> -->
 
 ### 🔥 SPIDER-STREAK COUNTER
 
@@ -305,9 +303,9 @@ My development journey revolves around three major dimensions:
 
 <br/><br/>
 
-### 📈 ACTIVITY ACROSS THE MULTIVERSE
+<!-- ### 📈 ACTIVITY ACROSS THE MULTIVERSE
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shouvanik21&bg_color=0D1117&color=FFFFFF&line=FF3131&point=00FFFF&area=true&area_color=8B0000&hide_border=true&custom_title=EARTH-1610%20%2F%2F%20CONTRIBUTION%20TIMELINE" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shouvanik21&bg_color=0D1117&color=FFFFFF&line=FF3131&point=00FFFF&area=true&area_color=8B0000&hide_border=true&custom_title=EARTH-1610%20%2F%2F%20CONTRIBUTION%20TIMELINE" width="100%" alt="GitHub activity graph"/> -->
 
 </div>
 
@@ -325,12 +323,6 @@ My development journey revolves around three major dimensions:
 **Important:** These services depend on external APIs and their own caching. Private contributions may require configuration and may not be available from every service. Displayed statistics can differ slightly between providers.
 
 </details>
-
-<div align="center">
-
-<img src="assets/glitch-divider.gif" width="100%" alt="Glitch divider"/>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- SECTION 05 // NOTABLE ANOMALY REPORTS                           -->
@@ -410,42 +402,43 @@ A document intelligence system designed to transform handwritten documents into 
 
 ### ⚡ ANOMALY 002
 
-## DRIVEGUARD AI
+**## CREDIT RISK PREDICTION**
 
-**ELECTRICAL DIGITAL TWIN**
+**\*\*MACHINE LEARNING CLASSIFICATION\*\***
 
-<img src="https://img.shields.io/badge/DOMAIN-AI%20%2B%20ENGINEERING-00A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DOMAIN-MACHINE%20LEARNING-00A6FF?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/STATUS-PROTOTYPE-FFB000?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA44F?style=flat-square"/>
 
-</div>
+A machine learning-based credit risk assessment system that predicts whether a loan applicant is likely to default or successfully repay a loan.
 
-An electrical digital twin platform combining motor simulation, virtual sensing, fault analysis, and AI-assisted troubleshooting.
+**\*\*Core capabilities:\*\***
 
-**Core capabilities:**
+- Loan applicant data preprocessing and feature preparation.
+- Exploratory data analysis.
+- Feature scaling and transformation.
+- Support Vector Machine (SVM) model training.
+- Credit default prediction (Default / No Default).
+- Model evaluation using classification metrics.
+- Saved preprocessing artifacts and trained model for predictions.
 
-- Low-voltage AC motor simulation.
-- Configurable electrical parameters.
-- Virtual sensor data generation.
-- Electrical fault detection and analysis.
-- MongoDB diagnostic history.
-- ChromaDB-based retrieval.
-- AI-assisted troubleshooting using RAG.
+**\*\*Technology stack:\*\***
 
-**Technology stack:**
-
-`Python` `Simulation` `MongoDB` `ChromaDB` `RAG`
+`Python` `Pandas` `NumPy` `Scikit-learn` `SVM` `Machine Learning`
 
 <div align="center">
 
-<a href="PROJECT_DRIVEGUARD_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/EXPLORE_ANOMALY-00A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="PROJECT_CREDIT_RISK_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top"></td></tr>
 
 <tr>
 <td width="50%" valign="top">
