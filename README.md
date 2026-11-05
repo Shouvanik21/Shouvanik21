@@ -283,7 +283,7 @@ My development journey revolves around three major dimensions:
 
 ### 🩸 THE CRIMSON CONTRIBUTION DIMENSION
 
-<img src="https://ghchart.rshah.org/FF3131/Shouvanik21" alt="Shouvanik's GitHub contribution heatmap" width="100%"/>
+<img src="./profile-3d-contrib/profile-customize.svg" width="100%">
 
 <br/>
 
