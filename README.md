@@ -34,8 +34,9 @@ CURRENT MISSION: Strengthening my foundations in AI/ML engineering, Agentic AI, 
 MY MOTTO:
 "With great repository access comes great responsibility."
 
-<br>
-</td></tr></table><div align="center"><img src="assets/img1.jpg" width="85%" alt="Glitch divider" height="600"/><br><br>⚡ CHARACTER ATTRIBUTES || SPIDER-SENSE SCAN
+<br><br>
+
+</td></tr></table><div align="center"><img src="assets/img1.jpg" width="85%" alt="Glitch divider"/><br><br>⚡ CHARACTER ATTRIBUTES || SPIDER-SENSE SCAN <br>
 </div><table width="100%"><tr><td align="center" width="25%"><h3>🧠</h3><b>AI / ML</b>
 <sub>INTELLIGENCE ENGINE</sub>
 </td><td align="center" width="25%"><h3>🕸️</h3>
@@ -52,6 +53,8 @@ MY MOTTO:
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<br>
 
 <h2>⚙️ THE TECH ARSENAL</h2>
 
@@ -201,7 +204,7 @@ MY MOTTO:
 
 <sub>BLACK → DEEP CRIMSON → NEON RED // ACTIVITY INTENSITY</sub>
 
-<br/><br/>
+<br/>
 
 <!-- MULTIVERSE STATISTICS
 
@@ -218,7 +221,7 @@ MY MOTTO:
      width="80%"
      alt="GitHub streak statistics"/>
 
-<br/><br/>
+<br/>
 
 <!-- ACTIVITY ACROSS THE MULTIVERSE
 
@@ -263,9 +266,9 @@ MY MOTTO:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ANOMALY--001-VERIFIED-FF3131?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ANOMALY--002-ACTIVE-00FFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ANOMALY--003-ANALYTICS-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANOMALY--001-deep learning & rag-FF3131?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANOMALY--002-ML-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANOMALY--003- ANALYTICS-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ANOMALY--004-ML-FF3131?style=for-the-badge"/>
 
 </div>
