@@ -622,19 +622,21 @@ Python · Pandas · Scikit-learn · TF-IDF · Linear SVM
 
 "What Miles is currently listening to on his headphones:"
 
-<br/>
+<br>
 
-<a href="https://open.spotify.com/">
-<img src="https://img.shields.io/badge/NOW_PLAYING-SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+<a href="https://open.spotify.com/search/Sunflower%20Post%20Malone%20Swae%20Lee">
+<img src="https://img.shields.io/badge/NOW_PLAYING-SUNFLOWER-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-<br/>
-
-<sub>CONNECT A SPOTIFY INTEGRATION TO DISPLAY YOUR LIVE TRACK.</sub>
+<sub>🌻 SUNFLOWER — POST MALONE ft. SWAE LEE</sub>
 
 </div>
 
+<br>
+
 ### 🛰️ OPEN-SOURCE SIGNAL
+
+<br>
 
 <div align="center">
 
@@ -698,7 +700,6 @@ or a problem worth solving?
 
 <br/>
 
-<!-- <img src="assets/glitch-background.jpg" width="75%" alt="Glitch divider"/> -->
 <hr>
 
 <h3>🕷️ THE SPIDER-VERSE DEVELOPER DIRECTIVE</h3>
@@ -719,14 +720,14 @@ or a problem worth solving?
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=30&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=KEEP+BUILDING.;KEEP+EXPLORING.;KEEP+BREAKING+THE+LIMITS.;SEE+YOU+IN+ANOTHER+UNIVERSE..." alt="Animated closing message"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/MADE_WITH-COFFEE_%26_CODE-181717?style=for-the-badge" alt="Made with coffee and code"/>
 <img src="https://img.shields.io/badge/POWERED_BY-CURIOSITY-FF3131?style=for-the-badge" alt="Powered by curiosity"/>
 
 <br/><br/>
 
-<sub>© SHOUVANIK SANTRA // EARTH-1610 // ALL DIMENSIONS CONNECTED</sub>
+<sub>© SHOUVANIK SANTRA || EARTH-1610 || ALL DIMENSIONS CONNECTED</sub>
 
 </div>
 
