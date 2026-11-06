@@ -96,7 +96,7 @@
 
 </div>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td align="center" width="25%">
 <h3>🧠</h3>
