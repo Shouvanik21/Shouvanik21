@@ -90,7 +90,7 @@
 
 <br/><br/>
 
-<sub>⚡ 𝙲𝙷𝙰𝚁𝙰𝙲𝚃𝙴𝚁 𝙰𝚃𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝚂 || 𝚂𝙿𝙸𝙳𝙴𝚁-𝚂𝙴𝙽𝚂𝙴 𝚂𝙲𝙰𝙽</sub>
+<h3>⚡ 𝙲𝙷𝙰𝚁𝙰𝙲𝚃𝙴𝚁 𝙰𝚃𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝚂 || 𝚂𝙿𝙸𝙳𝙴𝚁-𝚂𝙴𝙽𝚂𝙴 𝚂𝙲𝙰𝙽</h3>
 
 <br/><br/>
 
@@ -147,6 +147,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma&theme=dark" alt="Frontend technologies"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/html-FF6B35?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-3A86FF?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-8338EC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/reactjs-FB5607?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/tailwindcss-38B000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vite-FFBE0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/figma-FF006E?style=for-the-badge"/>
+</p>
+
 <table align="center" width="70%">
 <tr><th width="30%">𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆</th><th width="70%">𝗠𝗶𝘀𝘀𝗶𝗼𝗻</th></tr>
 <tr><td align="center">𝗛𝗧𝗠𝗟𝟱</td><td align="center">𝚂𝚎𝚖𝚊𝚗𝚝𝚒𝚌 𝚠𝚎𝚋 𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎</td></tr>
@@ -166,6 +176,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,fastapi,mysql,mongodb&theme=dark" alt="Backend technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-E63946?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-2A9D8F?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeJS-F4A261?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Expressjs-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/fastapi-06D6A0?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-118AB2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mongodb-EF476F?style=for-the-badge"/>
 </p>
 
 <table align="center" width="70%">
@@ -279,7 +299,7 @@
 
 <br/>
 
-<sub>BLACK → DEEP CRIMSON → NEON RED // ACTIVITY INTENSITY</sub>
+<sub>BLACK → DEEP CRIMSON → NEON RED || ACTIVITY INTENSITY</sub>
 
 <br/><br/>
 
@@ -371,7 +391,7 @@
 
 <b>MULTILINGUAL DOCUMENT INTELLIGENCE</b>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/DOMAIN-GENERATIVE_AI-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00AA66?style=flat-square"/>
@@ -416,7 +436,7 @@ Python · PaddleOCR · LangChain · ChromaDB · RAG
 
 <b>MACHINE LEARNING CLASSIFICATION</b>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/DOMAIN-MACHINE%20LEARNING-00A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA44F?style=flat-square"/>
@@ -464,7 +484,7 @@ Python · Pandas · NumPy · Scikit-learn · SVM · Machine Learning
 
 <b>SALES INTELLIGENCE & CUSTOMER ANALYTICS</b>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/DOMAIN-DATA_ANALYTICS-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00AA66?style=flat-square"/>
@@ -510,7 +530,7 @@ Python · Pandas · MySQL · SQL · Power BI
 
 <b>INTELLIGENT SPAM DETECTION</b>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/DOMAIN-MACHINE_LEARNING-FF3131?style=flat-square"/>
 <img src="https://img.shields.io/badge/MODEL-LINEAR_SVM-00FFFF?style=flat-square"/>
