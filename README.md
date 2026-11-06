@@ -392,9 +392,9 @@
 <img src="https://img.shields.io/badge/DOMAIN-GENERATIVE_AI-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00AA66?style=flat-square"/>
 
-<br>
-
 </div>
+
+<br>
 
 A document intelligence system designed to transform handwritten documents into searchable and verifiable knowledge.
 
@@ -441,9 +441,9 @@ Python · PaddleOCR · LangChain · ChromaDB · RAG
 <img src="https://img.shields.io/badge/DOMAIN-MACHINE%20LEARNING-00A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA44F?style=flat-square"/>
 
-<br>
-
 </div>
+
+<br>
 
 A machine learning-based credit risk assessment system that predicts whether a loan applicant is likely to default or successfully repay a loan.
 
@@ -493,9 +493,9 @@ Python · Pandas · NumPy · Scikit-learn · SVM · Machine Learning
 <img src="https://img.shields.io/badge/DOMAIN-DATA_ANALYTICS-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00AA66?style=flat-square"/>
 
-<br>
-
 </div>
+
+<br>
 
 An end-to-end retail analytics solution that transforms transactional sales data into meaningful business intelligence.
 
@@ -543,9 +543,9 @@ Python · Pandas · MySQL · SQL · Power BI
 <img src="https://img.shields.io/badge/DOMAIN-MACHINE_LEARNING-FF3131?style=flat-square"/>
 <img src="https://img.shields.io/badge/MODEL-LINEAR_SVM-00FFFF?style=flat-square"/>
 
-<br>
-
 </div>
+
+<br>
 
 A machine learning-based email classification system that distinguishes legitimate messages from spam using natural language processing.
 
