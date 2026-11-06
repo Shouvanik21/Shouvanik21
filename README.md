@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<br/>
+<br/><br/>
 
 <img src="assets/img1.jpg" width="85%" alt="Glitch divider"/>
 
@@ -299,7 +299,7 @@
 
 <br/>
 
-<sub>BLACK → DEEP CRIMSON → NEON RED || ACTIVITY INTENSITY</sub>
+<h3>BLACK → DEEP CRIMSON → NEON RED || ACTIVITY INTENSITY</h3>
 
 <br/><br/>
 
@@ -361,9 +361,9 @@
 
 <img src="assets/img5.avif" width="70%" alt="Interdimensional portal"/>
 
-<br/>
+<br/><br/>
 
-<sub>FOUR MAJOR ANOMALIES DETECTED || CLASSIFICATION: DEVELOPER PROJECTS</sub>
+<h3>FOUR MAJOR ANOMALIES DETECTED || CLASSIFICATION: DEVELOPER PROJECTS</h3>
 
 <br/><br/>
 
@@ -580,9 +580,9 @@ Python · Pandas · Scikit-learn · TF-IDF · Linear SVM
 <img src="https://img.shields.io/badge/ACCESS_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<sub>THE MULTIVERSE IS BIGGER THAN FOUR PROJECTS.</sub>
+<h3>THE MULTIVERSE IS BIGGER THAN FOUR PROJECTS.</h3>
 
 <br/><br/>
 
@@ -713,7 +713,7 @@ or a problem worth solving?
 
 <h3>THANK YOU FOR VISITING MY MULTIVERSE.</h3>
 
-<sub>IF YOU MADE IT THIS FAR, YOU'RE OFFICIALLY PART OF EARTH-1610.</sub>
+<h5>IF YOU MADE IT THIS FAR, YOU'RE OFFICIALLY PART OF EARTH-1610.</h5>
 
 <br/><br/>
 
