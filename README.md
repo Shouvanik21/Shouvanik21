@@ -12,6 +12,8 @@
 
 <p><strong>BUILDING INTELLIGENT SYSTEMS. CONNECTING DIGITAL WORLDS. BREAKING LIMITS.</strong></p>
 
+<br>
+
 <img src="https://img.shields.io/badge/EARTH-1610-FF3131?style=for-the-badge&logo=spider&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IDENTITY-OPEN_SOURCE-8A2BE2?style=for-the-badge"/>
@@ -92,7 +94,7 @@
 
 <h3>⚡ 𝙲𝙷𝙰𝚁𝙰𝙲𝚃𝙴𝚁 𝙰𝚃𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝚂 || 𝚂𝙿𝙸𝙳𝙴𝚁-𝚂𝙴𝙽𝚂𝙴 𝚂𝙲𝙰𝙽</h3>
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -289,7 +291,7 @@
 
 <img src="https://img.shields.io/badge/CONTRIBUTION_TRACKER-ACTIVE-FF3131?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <h3>🩸 THE CRIMSON CONTRIBUTION DIMENSION</h3>
 
@@ -297,11 +299,7 @@
      alt="Shouvanik's GitHub contribution heatmap"
      width="85%"/>
 
-<br/>
-
 <h3>BLACK → DEEP CRIMSON → NEON RED || ACTIVITY INTENSITY</h3>
-
-<br/><br/>
 
 <!-- MULTIVERSE STATISTICS
 
@@ -346,8 +344,6 @@
 **Important:** These services depend on external APIs and their own caching. Private contributions may require configuration and may not be available from every service. Displayed statistics can differ slightly between providers.
 
 </details> -->
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- SECTION 05 // NOTABLE ANOMALY REPORTS -->
@@ -721,7 +717,7 @@ or a problem worth solving?
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=20&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=KEEP+BUILDING.;KEEP+EXPLORING.;KEEP+BREAKING+THE+LIMITS.;SEE+YOU+IN+ANOTHER+UNIVERSE..." alt="Animated closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=30&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=KEEP+BUILDING.;KEEP+EXPLORING.;KEEP+BREAKING+THE+LIMITS.;SEE+YOU+IN+ANOTHER+UNIVERSE..." alt="Animated closing message"/>
 
 <br/><br/>
 
