@@ -392,6 +392,8 @@
 <img src="https://img.shields.io/badge/DOMAIN-GENERATIVE_AI-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00AA66?style=flat-square"/>
 
+<br>
+
 </div>
 
 A document intelligence system designed to transform handwritten documents into searchable and verifiable knowledge.
@@ -411,6 +413,8 @@ A document intelligence system designed to transform handwritten documents into 
 Python · PaddleOCR · LangChain · ChromaDB · RAG
 
 <div align="center">
+
+<br>
 
 <a href="PROJECT_BHASHALENS_REPOSITORY_URL">
 <img src="https://img.shields.io/badge/EXPLORE_ANOMALY-FF3131?style=for-the-badge&logo=github&logoColor=white"/>
@@ -437,6 +441,8 @@ Python · PaddleOCR · LangChain · ChromaDB · RAG
 <img src="https://img.shields.io/badge/DOMAIN-MACHINE%20LEARNING-00A6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-2EA44F?style=flat-square"/>
 
+<br>
+
 </div>
 
 A machine learning-based credit risk assessment system that predicts whether a loan applicant is likely to default or successfully repay a loan.
@@ -457,8 +463,10 @@ Python · Pandas · NumPy · Scikit-learn · SVM · Machine Learning
 
 <div align="center">
 
+<br>
+
 <a href="PROJECT_CREDIT_RISK_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ANOMALY-00A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -485,6 +493,8 @@ Python · Pandas · NumPy · Scikit-learn · SVM · Machine Learning
 <img src="https://img.shields.io/badge/DOMAIN-DATA_ANALYTICS-F2C811?style=flat-square"/>
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00AA66?style=flat-square"/>
 
+<br>
+
 </div>
 
 An end-to-end retail analytics solution that transforms transactional sales data into meaningful business intelligence.
@@ -505,6 +515,8 @@ An end-to-end retail analytics solution that transforms transactional sales data
 Python · Pandas · MySQL · SQL · Power BI
 
 <div align="center">
+
+<br>
 
 <a href="https://github.com/Shouvanik21/Global-Retail-Customer-360_and_Sales-Intelligence">
 <img src="https://img.shields.io/badge/EXPLORE_ANOMALY-F2C811?style=for-the-badge&logo=github&logoColor=black"/>
@@ -531,6 +543,8 @@ Python · Pandas · MySQL · SQL · Power BI
 <img src="https://img.shields.io/badge/DOMAIN-MACHINE_LEARNING-FF3131?style=flat-square"/>
 <img src="https://img.shields.io/badge/MODEL-LINEAR_SVM-00FFFF?style=flat-square"/>
 
+<br>
+
 </div>
 
 A machine learning-based email classification system that distinguishes legitimate messages from spam using natural language processing.
@@ -554,6 +568,8 @@ A machine learning-based email classification system that distinguishes legitima
 Python · Pandas · Scikit-learn · TF-IDF · Linear SVM
 
 <div align="center">
+
+<br>
 
 <a href="PROJECT_SMARTMAIL_REPOSITORY_URL">
 <img src="https://img.shields.io/badge/EXPLORE_ANOMALY-FF3131?style=for-the-badge&logo=github&logoColor=white"/>
